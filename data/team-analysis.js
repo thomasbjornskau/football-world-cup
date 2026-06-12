@@ -248,6 +248,376 @@ window.WC_ANALYSIS = {
         }
       ],
       "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "spain",
+      "styleSummary": "The tournament's clearest positional-play side. Under Luis de la Fuente, Spain combine their traditional short-passing control with far more direct wing play than earlier eras, built around exceptionally young wide talents.",
+      "defensiveStyle": "High line and immediate counter-press after losses; opponents rarely get settled possession in Spain's half.",
+      "attackingStyle": "Patient central build-up that releases quick one-against-one wingers high and wide; midfielders arrive late in the box.",
+      "strengths": [
+        "Technical security under pressure",
+        "Elite wide players on both flanks",
+        "A defined, well-rehearsed model"
+      ],
+      "weaknesses": [
+        "Can be vulnerable to direct balls in behind the high line",
+        "A recurring question is physicality in central defence"
+      ],
+      "keyPlayers": [
+        "Lamine Yamal",
+        "Pedri",
+        "Nico Williams"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "portugal",
+      "styleSummary": "Talent-rich and increasingly structured under Roberto Martínez. Recent analyses describe a possession-oriented side with overloads in wide areas, still balancing its system around Cristiano Ronaldo's role in the box.",
+      "defensiveStyle": "Mid-to-high block with strong individual defenders; pressing intensity varies more than the top pressing sides.",
+      "attackingStyle": "Patient circulation into wide overloads; creative full-backs and inverted wingers supply a fixed reference striker.",
+      "strengths": [
+        "Depth of creative midfielders and wingers",
+        "Individual quality across every line"
+      ],
+      "weaknesses": [
+        "The balance around an ageing focal point in attack",
+        "A tendency to dominate territory without converting it"
+      ],
+      "keyPlayers": [
+        "Bruno Fernandes",
+        "Rafael Leão",
+        "Vitinha"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "netherlands",
+      "styleSummary": "Structured, physical and pragmatic under Ronald Koeman. The Dutch tend to build calmly from a back three or four, defend with discipline, and rely on a powerful midfield axis rather than classic wing play.",
+      "defensiveStyle": "Compact, well-organised block with strong aerial defenders; comfortable managing games without dominating them.",
+      "attackingStyle": "Controlled build-up through central midfield, with full-backs or wing-backs providing the width and late box arrivals from midfield.",
+      "strengths": [
+        "Midfield power and control",
+        "Set pieces and aerial strength",
+        "Tournament-savvy game management"
+      ],
+      "weaknesses": [
+        "Creating high-quality chances against deep blocks",
+        "A recurring lack of a prolific central striker"
+      ],
+      "keyPlayers": [
+        "Frenkie de Jong",
+        "Virgil van Dijk",
+        "Cody Gakpo"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "belgium",
+      "styleSummary": "A side renewing itself after its golden generation. Under Rudi Garcia, Belgium are described as more counter-oriented and less possession-dominant than before, organised around a young creative core.",
+      "defensiveStyle": "Medium block with an emphasis on protecting central areas; less aggressive pressing than the top sides.",
+      "attackingStyle": "Quick combinations through the half-spaces, with Kevin De Bruyne's successors and Jérémy Doku's carries as the main chance creators.",
+      "strengths": [
+        "Elite ball-carrying in wide areas",
+        "Goalkeeping",
+        "A talented emerging generation"
+      ],
+      "weaknesses": [
+        "A defence in generational transition",
+        "Recent tournament performances have lagged the talent level"
+      ],
+      "keyPlayers": [
+        "Jérémy Doku",
+        "Amadou Onana",
+        "Thibaut Courtois"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "germany",
+      "styleSummary": "Rebuilt and re-energised under Julian Nagelsmann. Recent analyses describe a high-tempo side that presses aggressively, attacks the half-spaces with quick combinations and has rediscovered a clear identity after a difficult decade of tournaments.",
+      "defensiveStyle": "High, coordinated pressing with an aggressive line; accepts risk in behind in exchange for territorial control.",
+      "attackingStyle": "Fast vertical combinations through central zones, with technically elite midfielders arriving between the lines.",
+      "strengths": [
+        "Midfield creativity and pressing structure",
+        "Home-style tournament pedigree",
+        "Set pieces"
+      ],
+      "weaknesses": [
+        "Vulnerability to direct play against the high line",
+        "A recurring search for a reliable goalscoring striker"
+      ],
+      "keyPlayers": [
+        "Jamal Musiala",
+        "Florian Wirtz",
+        "Joshua Kimmich"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "croatia",
+      "styleSummary": "Technical, patient and exceptionally tournament-hardened. Croatia under Zlatko Dalić still run games through a high-class midfield, controlling tempo and grinding out tight knockout matches — often via extra time and penalties.",
+      "defensiveStyle": "Disciplined mid block that prioritises position over pressing; experienced defenders who manage risk well.",
+      "attackingStyle": "Midfield-led control with measured progression; chances are constructed rather than counter-attacked.",
+      "strengths": [
+        "Midfield quality and composure",
+        "Knockout-match resilience",
+        "Penalty shoot-out record"
+      ],
+      "weaknesses": [
+        "An ageing core, with Luka Modrić's role gradually reduced",
+        "Limited pace in wide areas"
+      ],
+      "keyPlayers": [
+        "Joško Gvardiol",
+        "Mateo Kovačić",
+        "Luka Modrić"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "colombia",
+      "styleSummary": "Expressive and attack-minded under Néstor Lorenzo, with a long unbeaten run in recent years built on technical midfield play and one of the world's most productive creators in James Rodríguez's successor generation — and Luis Díaz at the heart of everything.",
+      "defensiveStyle": "Medium block with energetic central midfielders; full-backs push high, leaving space that quicker opponents can target.",
+      "attackingStyle": "Fluid combination play through the left side, with Luis Díaz's dribbling and overlapping full-backs creating overloads.",
+      "strengths": [
+        "Creative quality in the final third",
+        "Momentum and confidence from a strong qualifying cycle"
+      ],
+      "weaknesses": [
+        "Space behind advanced full-backs",
+        "A tendency to drop intensity after taking leads"
+      ],
+      "keyPlayers": [
+        "Luis Díaz",
+        "Richard Ríos",
+        "Davinson Sánchez"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "senegal",
+      "styleSummary": "Physical, fast and front-footed. Under Pape Thiaw, Senegal press high from a 4-3-3, counter-press immediately after losses and release their forwards early — with Sadio Mané still the side's reference point, dropping in to link play.",
+      "defensiveStyle": "Aggressive, coordinated high press backed by athletic, duel-strong defenders and an elite goalkeeper.",
+      "attackingStyle": "Vertical attacks launched the moment the ball turns over; explosive carries from wide areas and runners breaking beyond the striker.",
+      "strengths": [
+        "Athleticism and duel strength across the pitch",
+        "Transition speed",
+        "A settled, experienced spine with continental titles"
+      ],
+      "weaknesses": [
+        "Sustained creation against teams that sit very deep",
+        "A reliance on key veterans for composure in big matches"
+      ],
+      "keyPlayers": [
+        "Sadio Mané",
+        "Pape Matar Sarr",
+        "Édouard Mendy"
+      ],
+      "sources": [
+        {
+          "title": "Coaches' Voice — Senegal tactical analysis",
+          "url": "https://learning.coachesvoice.com"
+        },
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "mexico",
+      "styleSummary": "Experienced and pragmatic under Javier Aguirre, hosting the World Cup for a record third time. Recent analyses describe a side that mixes patient possession at home with a more cautious, counter-oriented game against stronger opponents.",
+      "defensiveStyle": "Organised mid block with experienced central defenders; Aguirre's sides are typically hard to break down rather than aggressive pressers.",
+      "attackingStyle": "Build-up through wide rotations and full-back overlaps; relies on moments from quick attackers rather than a fixed pattern.",
+      "strengths": [
+        "Home advantage and tournament atmosphere",
+        "Tactical discipline",
+        "Depth of tournament experience"
+      ],
+      "weaknesses": [
+        "A long-running shortage of elite goalscoring",
+        "The round-of-16 ceiling has become its own psychological weight"
+      ],
+      "keyPlayers": [
+        "Edson Álvarez",
+        "Santiago Giménez",
+        "Luis Romo"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "uruguay",
+      "styleSummary": "Intense, brave and unmistakably Marcelo Bielsa's team. Uruguay press man-to-man across the pitch, attack with verticality and numbers, and have traded their traditional pragmatism for one of the most aggressive styles in the tournament.",
+      "defensiveStyle": "Man-oriented high pressing all over the pitch; physically demanding and deliberately high-risk.",
+      "attackingStyle": "Direct, fast attacks with runners committed forward in waves; width from touchline wingers and overlapping backs.",
+      "strengths": [
+        "Pressing intensity and physical edge",
+        "A young, athletic core",
+        "Clear and distinctive game model"
+      ],
+      "weaknesses": [
+        "Man-marking leaves one-against-one risks at the back",
+        "Intensity is hard to sustain across a seven-match tournament"
+      ],
+      "keyPlayers": [
+        "Federico Valverde",
+        "Darwin Núñez",
+        "Ronald Araújo"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "switzerland",
+      "styleSummary": "Stable, compact and quietly effective — the tournament's most consistent overachiever. Under Murat Yakin, Switzerland defend in an organised block, control games through technically secure midfielders and rarely beat themselves.",
+      "defensiveStyle": "Disciplined 4-2-3-1 or back-three block with excellent collective shape; concedes few clear chances.",
+      "attackingStyle": "Measured build-up through midfield, with set pieces and mid-range strikes as recurring weapons.",
+      "strengths": [
+        "Organisation and consistency",
+        "Knockout-stage experience",
+        "Set pieces"
+      ],
+      "weaknesses": [
+        "A limited ceiling in open attacking play",
+        "Reliance on a small group of creators"
+      ],
+      "keyPlayers": [
+        "Granit Xhaka",
+        "Manuel Akanji",
+        "Dan Ndoye"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "teamId": "iraq",
+      "styleSummary": "Resilient, compact and counter-attacking. Under Graham Arnold, Iraq have traded an inconsistent identity for a disciplined low-to-mid block — typically a 4-4-2 that absorbs pressure, keeps possession in the mid-40s and breaks with direct, physical running.",
+      "defensiveStyle": "Deep, well-organised block with selective pressing; the priority is denying central space and staying in matches.",
+      "attackingStyle": "Quick, direct transitions towards two strikers, with physical duels and wide running rather than build-up play.",
+      "strengths": [
+        "Defensive organisation under Arnold",
+        "Composure in decisive matches — qualification went to the wire twice",
+        "Emotional momentum from a 40-year wait"
+      ],
+      "weaknesses": [
+        "A large gap in class against top sides",
+        "Limited creation when forced to take the initiative"
+      ],
+      "keyPlayers": [
+        "Aymen Hussein",
+        "Amir Al-Ammari",
+        "Zidane Iqbal"
+      ],
+      "sources": [
+        {
+          "title": "Yahoo Sports — World Cup 2026 Group I preview",
+          "url": "https://sports.yahoo.com"
+        },
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        }
+      ],
+      "lastUpdated": "2026-06-12"
     }
   ]
 };

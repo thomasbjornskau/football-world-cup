@@ -35,240 +35,16 @@ window.WC_HISTORY = {
       "5": "Final",
       "6": "Champion"
     },
+    "selection": "The 18 highest-ranked teams at the 2026 World Cup (FIFA Men's World Ranking, April 2026), plus Norway and Iraq — covering all of Group I.",
     "notes": [
+      "Generated from the Fjelstul World Cup Database (1930-2022).",
       "Pre-1986 formats are mapped to the nearest modern equivalent (see README).",
-      "Knockout matches decided on penalties are counted as draws."
+      "Knockout matches decided on penalties are counted as draws.",
+      "West Germany's results (1954-1990) are attributed to Germany, per FIFA convention. Yugoslavia and Czechoslovakia are not attributed to Croatia or any current team in this set."
     ],
-    "source": "Compiled manually from public historical records (FIFA archives, openfootball, Fjelstul World Cup Database)."
+    "source": "Fjelstul World Cup Database (github.com/jfjelstul/worldcup); curated notes and 2026 entries added manually."
   },
   "teams": [
-    {
-      "id": "morocco",
-      "name": "Morocco",
-      "confederation": "CAF",
-      "qualified2026": true,
-      "worldCups": [
-        {
-          "year": 1930,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1934,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1938,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1950,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1954,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1958,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
-        },
-        {
-          "year": 1962,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1966,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Withdrew"
-        },
-        {
-          "year": 1970,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 0,
-          "draws": 1,
-          "losses": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 6,
-          "matchResults": [
-            "L",
-            "L",
-            "D"
-          ]
-        },
-        {
-          "year": 1974,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1978,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1982,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1986,
-          "participated": true,
-          "stage": "Round of 16",
-          "stageLevel": 2,
-          "matches": 4,
-          "wins": 1,
-          "draws": 2,
-          "losses": 1,
-          "goalsFor": 3,
-          "goalsAgainst": 2,
-          "matchResults": [
-            "D",
-            "D",
-            "W",
-            "L"
-          ],
-          "note": "First African side to reach the knockout stage"
-        },
-        {
-          "year": 1990,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1994,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 0,
-          "draws": 0,
-          "losses": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 5,
-          "matchResults": [
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "year": 1998,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 1,
-          "draws": 1,
-          "losses": 1,
-          "goalsFor": 5,
-          "goalsAgainst": 5,
-          "matchResults": [
-            "D",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "year": 2002,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 2006,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 2010,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 2014,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 2018,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 0,
-          "draws": 1,
-          "losses": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 4,
-          "matchResults": [
-            "L",
-            "L",
-            "D"
-          ]
-        },
-        {
-          "year": 2022,
-          "participated": true,
-          "stage": "Semi-final",
-          "stageLevel": 4,
-          "matches": 7,
-          "wins": 3,
-          "draws": 2,
-          "losses": 2,
-          "goalsFor": 6,
-          "goalsAgainst": 5,
-          "matchResults": [
-            "D",
-            "W",
-            "W",
-            "D",
-            "W",
-            "L",
-            "L"
-          ],
-          "note": "First African semi-finalist; finished fourth"
-        },
-        {
-          "year": 2026,
-          "participated": true,
-          "stage": "Qualified",
-          "stageLevel": 1,
-          "note": "Qualified for 2026"
-        }
-      ]
-    },
     {
       "id": "argentina",
       "name": "Argentina",
@@ -292,7 +68,8 @@ window.WC_HISTORY = {
             "W",
             "W",
             "L"
-          ]
+          ],
+          "note": "Runners-up at the first World Cup"
         },
         {
           "year": 1934,
@@ -314,22 +91,19 @@ window.WC_HISTORY = {
           "year": 1938,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1950,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1954,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1958,
@@ -426,8 +200,8 @@ window.WC_HISTORY = {
             "W",
             "L",
             "W",
-            "W",
             "D",
+            "W",
             "W"
           ],
           "note": "Champions as hosts"
@@ -435,7 +209,7 @@ window.WC_HISTORY = {
         {
           "year": 1982,
           "participated": true,
-          "stage": "Second round",
+          "stage": "Second group stage",
           "stageLevel": 3,
           "matches": 5,
           "wins": 2,
@@ -659,8 +433,8 @@ window.WC_HISTORY = {
       ]
     },
     {
-      "id": "france",
-      "name": "France",
+      "id": "belgium",
+      "name": "Belgium",
       "confederation": "UEFA",
       "qualified2026": true,
       "worldCups": [
@@ -669,14 +443,13 @@ window.WC_HISTORY = {
           "participated": true,
           "stage": "Group stage",
           "stageLevel": 1,
-          "matches": 3,
-          "wins": 1,
+          "matches": 2,
+          "wins": 0,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 3,
+          "goalsFor": 0,
+          "goalsAgainst": 4,
           "matchResults": [
-            "W",
             "L",
             "L"
           ]
@@ -691,25 +464,23 @@ window.WC_HISTORY = {
           "draws": 0,
           "losses": 1,
           "goalsFor": 2,
-          "goalsAgainst": 3,
+          "goalsAgainst": 5,
           "matchResults": [
             "L"
-          ],
-          "note": "Straight knockout format"
+          ]
         },
         {
           "year": 1938,
           "participated": true,
-          "stage": "Quarter-final",
-          "stageLevel": 3,
-          "matches": 2,
-          "wins": 1,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 1,
+          "wins": 0,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 4,
-          "goalsAgainst": 4,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
           "matchResults": [
-            "W",
             "L"
           ]
         },
@@ -717,8 +488,7 @@ window.WC_HISTORY = {
           "year": 1950,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Withdrew after qualifying"
+          "stageLevel": 0
         },
         {
           "year": 1954,
@@ -726,36 +496,21 @@ window.WC_HISTORY = {
           "stage": "Group stage",
           "stageLevel": 1,
           "matches": 2,
-          "wins": 1,
-          "draws": 0,
+          "wins": 0,
+          "draws": 1,
           "losses": 1,
-          "goalsFor": 3,
-          "goalsAgainst": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 8,
           "matchResults": [
-            "L",
-            "W"
+            "D",
+            "L"
           ]
         },
         {
           "year": 1958,
-          "participated": true,
-          "stage": "Semi-final",
-          "stageLevel": 4,
-          "matches": 6,
-          "wins": 4,
-          "draws": 0,
-          "losses": 2,
-          "goalsFor": 23,
-          "goalsAgainst": 15,
-          "matchResults": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "note": "Third place; Fontaine scored 13"
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 1962,
@@ -765,26 +520,26 @@ window.WC_HISTORY = {
         },
         {
           "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
           "participated": true,
           "stage": "Group stage",
           "stageLevel": 1,
           "matches": 3,
-          "wins": 0,
-          "draws": 1,
+          "wins": 1,
+          "draws": 0,
           "losses": 2,
-          "goalsFor": 2,
+          "goalsFor": 4,
           "goalsAgainst": 5,
           "matchResults": [
-            "D",
+            "W",
             "L",
             "L"
           ]
-        },
-        {
-          "year": 1970,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
         },
         {
           "year": 1974,
@@ -794,42 +549,28 @@ window.WC_HISTORY = {
         },
         {
           "year": 1978,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 1,
-          "draws": 0,
-          "losses": 2,
-          "goalsFor": 5,
-          "goalsAgainst": 5,
-          "matchResults": [
-            "L",
-            "L",
-            "W"
-          ]
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 1982,
           "participated": true,
-          "stage": "Semi-final",
-          "stageLevel": 4,
-          "matches": 7,
-          "wins": 3,
-          "draws": 2,
+          "stage": "Second group stage",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 2,
+          "draws": 1,
           "losses": 2,
-          "goalsFor": 16,
-          "goalsAgainst": 12,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
           "matchResults": [
+            "W",
+            "W",
+            "D",
             "L",
-            "W",
-            "D",
-            "W",
-            "W",
-            "D",
             "L"
-          ],
-          "note": "Fourth place"
+          ]
         },
         {
           "year": 1986,
@@ -837,111 +578,104 @@ window.WC_HISTORY = {
           "stage": "Semi-final",
           "stageLevel": 4,
           "matches": 7,
-          "wins": 4,
+          "wins": 2,
           "draws": 2,
-          "losses": 1,
+          "losses": 3,
           "goalsFor": 12,
-          "goalsAgainst": 6,
+          "goalsAgainst": 15,
           "matchResults": [
+            "L",
             "W",
             "D",
-            "W",
             "W",
             "D",
             "L",
-            "W"
+            "L"
           ],
-          "note": "Third place"
+          "note": "Fourth place"
         },
         {
           "year": 1990,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1994,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1998,
           "participated": true,
-          "stage": "Champion",
-          "stageLevel": 6,
-          "matches": 7,
-          "wins": 6,
-          "draws": 1,
-          "losses": 0,
-          "goalsFor": 15,
-          "goalsAgainst": 2,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 4,
           "matchResults": [
             "W",
             "W",
-            "W",
-            "W",
-            "D",
-            "W",
-            "W"
-          ],
-          "note": "Champions as hosts"
+            "L",
+            "L"
+          ]
         },
         {
-          "year": 2002,
+          "year": 1994,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
           "participated": true,
           "stage": "Group stage",
           "stageLevel": 1,
           "matches": 3,
           "wins": 0,
-          "draws": 1,
-          "losses": 2,
-          "goalsFor": 0,
+          "draws": 3,
+          "losses": 0,
+          "goalsFor": 3,
           "goalsAgainst": 3,
           "matchResults": [
-            "L",
             "D",
+            "D",
+            "D"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "D",
+            "D",
+            "W",
             "L"
           ]
         },
         {
           "year": 2006,
-          "participated": true,
-          "stage": "Final",
-          "stageLevel": 5,
-          "matches": 7,
-          "wins": 4,
-          "draws": 3,
-          "losses": 0,
-          "goalsFor": 9,
-          "goalsAgainst": 3,
-          "matchResults": [
-            "D",
-            "D",
-            "W",
-            "W",
-            "W",
-            "W",
-            "D"
-          ],
-          "note": "Lost the final on penalties (counted as a draw)"
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 2010,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 0,
-          "draws": 1,
-          "losses": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 4,
-          "matchResults": [
-            "D",
-            "L",
-            "L"
-          ]
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 2014,
@@ -949,15 +683,15 @@ window.WC_HISTORY = {
           "stage": "Quarter-final",
           "stageLevel": 3,
           "matches": 5,
-          "wins": 3,
-          "draws": 1,
+          "wins": 4,
+          "draws": 0,
           "losses": 1,
-          "goalsFor": 10,
+          "goalsFor": 6,
           "goalsAgainst": 3,
           "matchResults": [
             "W",
             "W",
-            "D",
+            "W",
             "W",
             "L"
           ]
@@ -965,45 +699,41 @@ window.WC_HISTORY = {
         {
           "year": 2018,
           "participated": true,
-          "stage": "Champion",
-          "stageLevel": 6,
+          "stage": "Semi-final",
+          "stageLevel": 4,
           "matches": 7,
           "wins": 6,
-          "draws": 1,
-          "losses": 0,
-          "goalsFor": 14,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 16,
           "goalsAgainst": 6,
           "matchResults": [
             "W",
             "W",
-            "D",
             "W",
             "W",
             "W",
+            "L",
             "W"
-          ]
+          ],
+          "note": "Third place — Belgium's best finish"
         },
         {
           "year": 2022,
           "participated": true,
-          "stage": "Final",
-          "stageLevel": 5,
-          "matches": 7,
-          "wins": 5,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
           "draws": 1,
           "losses": 1,
-          "goalsFor": 16,
-          "goalsAgainst": 8,
+          "goalsFor": 1,
+          "goalsAgainst": 2,
           "matchResults": [
             "W",
-            "W",
             "L",
-            "W",
-            "W",
-            "W",
             "D"
-          ],
-          "note": "Lost the final on penalties (counted as a draw)"
+          ]
         },
         {
           "year": 2026,
@@ -1091,7 +821,7 @@ window.WC_HISTORY = {
             "W",
             "L"
           ],
-          "note": "Final round-robin; decisive match lost to Uruguay"
+          "note": "Lost the decisive match of the final round-robin to Uruguay — the Maracanazo"
         },
         {
           "year": 1954,
@@ -1235,7 +965,7 @@ window.WC_HISTORY = {
         {
           "year": 1982,
           "participated": true,
-          "stage": "Second round",
+          "stage": "Second group stage",
           "stageLevel": 3,
           "matches": 5,
           "wins": 4,
@@ -1464,6 +1194,453 @@ window.WC_HISTORY = {
       ]
     },
     {
+      "id": "colombia",
+      "name": "Colombia",
+      "confederation": "CONMEBOL",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 11,
+          "matchResults": [
+            "L",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "L",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 12,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "note": "Quarter-final — Colombia's best finish"
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the round of 16"
+        },
+        {
+          "year": 2022,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 5,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 11,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place at the first appearance as an independent nation"
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "D",
+            "D"
+          ]
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 4,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 14,
+          "goalsAgainst": 9,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D",
+            "W",
+            "L"
+          ],
+          "note": "Runners-up; two knockout wins on penalties (counted as draws)"
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 2,
+          "draws": 4,
+          "losses": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "D",
+            "D",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
       "id": "england",
       "name": "England",
       "confederation": "UEFA",
@@ -1473,22 +1650,19 @@ window.WC_HISTORY = {
           "year": 1930,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1934,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1938,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1950,
@@ -1615,7 +1789,7 @@ window.WC_HISTORY = {
         {
           "year": 1982,
           "participated": true,
-          "stage": "Second round",
+          "stage": "Second group stage",
           "stageLevel": 3,
           "matches": 5,
           "wins": 3,
@@ -1671,7 +1845,7 @@ window.WC_HISTORY = {
             "D",
             "L"
           ],
-          "note": "Fourth place; semi-final lost on penalties (counted as a draw)"
+          "note": "Fourth place"
         },
         {
           "year": 1994,
@@ -1792,7 +1966,7 @@ window.WC_HISTORY = {
             "L",
             "L"
           ],
-          "note": "Fourth place; round-of-16 win on penalties (counted as a draw)"
+          "note": "Fourth place"
         },
         {
           "year": 2022,
@@ -1823,8 +1997,791 @@ window.WC_HISTORY = {
       ]
     },
     {
-      "id": "japan",
-      "name": "Japan",
+      "id": "france",
+      "name": "France",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1934,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L"
+          ],
+          "note": "Straight knockout format"
+        },
+        {
+          "year": 1938,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 2,
+          "wins": 1,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 2,
+          "wins": 1,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 1958,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 4,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 23,
+          "goalsAgainst": 15,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place; Fontaine scored 13"
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 1982,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 16,
+          "goalsAgainst": 12,
+          "matchResults": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "note": "Fourth place"
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 4,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 12,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 6,
+          "draws": 1,
+          "losses": 0,
+          "goalsFor": 15,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "note": "Champions as hosts"
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 4,
+          "draws": 3,
+          "losses": 0,
+          "goalsFor": 9,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "D",
+            "D",
+            "W",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Final lost on penalties (counted as a draw)"
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "D",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 10,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 6,
+          "draws": 1,
+          "losses": 0,
+          "goalsFor": 14,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 16,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Final lost on penalties (counted as a draw)"
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 4,
+          "wins": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 11,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 1938,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 6,
+          "wins": 5,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 25,
+          "goalsAgainst": 14,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "note": "Won as West Germany — the Miracle of Bern"
+        },
+        {
+          "year": 1958,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 2,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 12,
+          "goalsAgainst": 14,
+          "matchResults": [
+            "W",
+            "D",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "note": "Fourth place"
+        },
+        {
+          "year": 1962,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 6,
+          "wins": 4,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 15,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1970,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 5,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 17,
+          "goalsAgainst": 10,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 1974,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 13,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "note": "Won as West Germany, as hosts"
+        },
+        {
+          "year": 1978,
+          "participated": true,
+          "stage": "Second group stage",
+          "stageLevel": 3,
+          "matches": 6,
+          "wins": 1,
+          "draws": 4,
+          "losses": 1,
+          "goalsFor": 10,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "D",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1982,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 12,
+          "goalsAgainst": 10,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "D",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "D",
+            "W",
+            "L",
+            "W",
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1990,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 5,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 15,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "note": "Won as West Germany"
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 9,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 14,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 14,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 5,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 16,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 6,
+          "draws": 1,
+          "losses": 0,
+          "goalsFor": 18,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "note": "First title as reunified Germany"
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
       "confederation": "AFC",
       "qualified2026": true,
       "worldCups": [
@@ -1832,29 +2789,25 @@ window.WC_HISTORY = {
           "year": 1930,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1934,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1938,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Withdrew"
+          "stageLevel": 0
         },
         {
           "year": 1950,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Not a FIFA member"
+          "stageLevel": 0
         },
         {
           "year": 1954,
@@ -1866,8 +2819,7 @@ window.WC_HISTORY = {
           "year": 1958,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1962,
@@ -1879,8 +2831,166 @@ window.WC_HISTORY = {
           "year": 1966,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 1,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ],
+          "note": "Iraq's only previous appearance"
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2018,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2022,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "First World Cup since 1986 — qualified via the intercontinental play-off"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "confederation": "AFC",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 1970,
@@ -1922,8 +3032,7 @@ window.WC_HISTORY = {
           "year": 1994,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Missed out on the final qualifying matchday"
+          "stageLevel": 0
         },
         {
           "year": 1998,
@@ -2062,6 +3171,2116 @@ window.WC_HISTORY = {
       ]
     },
     {
+      "id": "mexico",
+      "name": "Mexico",
+      "confederation": "CONCACAF",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 4,
+          "goalsAgainst": 13,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 10,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1954,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1958,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "L",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1962,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "D",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "year": 1970,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "L"
+          ],
+          "note": "Quarter-final as hosts"
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 12,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Quarter-final as hosts"
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0,
+          "note": "Banned from qualifying after fielding overage players in youth competition"
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the round of 16"
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "W",
+            "D",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "D",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 3,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Hosts for a record third time"
+        }
+      ]
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "confederation": "CAF",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "L",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "D",
+            "D",
+            "W",
+            "L"
+          ],
+          "note": "First African side to reach the knockout stage"
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "note": "First African semi-finalist; finished fourth"
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L"
+          ]
+        },
+        {
+          "year": 1938,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L"
+          ]
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 15,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "note": "Runners-up at the first appearance since 1938 — the Total Football side"
+        },
+        {
+          "year": 1978,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 15,
+          "goalsAgainst": 10,
+          "matchResults": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 0,
+          "draws": 3,
+          "losses": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "D",
+            "D",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 3,
+          "draws": 3,
+          "losses": 1,
+          "goalsFor": 13,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "W",
+            "D",
+            "L"
+          ],
+          "note": "Fourth place"
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "W",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Final",
+          "stageLevel": 5,
+          "matches": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 12,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "note": "A third final, again lost"
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 5,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 15,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D",
+            "D",
+            "W"
+          ],
+          "note": "Third place"
+        },
+        {
+          "year": 2018,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the quarter-final"
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "L"
+          ],
+          "note": "Straight knockout format; lost to eventual champions Italy after extra time"
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "matchResults": [
+            "W",
+            "L",
+            "D"
+          ],
+          "note": "Eliminated on goals scored in a group where all four teams finished on four points"
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "D",
+            "W",
+            "L"
+          ],
+          "note": "Beat Brazil in the group stage"
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2018,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2022,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "First World Cup since 1998 — won the qualifying group ahead of Italy"
+        }
+      ]
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 5,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 17,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "note": "Third place at the first appearance — Eusébio top scorer"
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 4,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "note": "Fourth place"
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 7,
+          "goalsAgainst": 1,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 12,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "confederation": "CAF",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1966,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 2,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 7,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "D",
+            "D",
+            "W",
+            "L"
+          ],
+          "note": "Beat holders France in the opening match; quarter-final on debut"
+        },
+        {
+          "year": 2006,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2010,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2014,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 1938,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1950,
+          "participated": true,
+          "stage": "Final round",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 10,
+          "goalsAgainst": 12,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "note": "Fourth in the final round-robin — Spain's best finish before 2010"
+        },
+        {
+          "year": 1954,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "year": 1982,
+          "participated": true,
+          "stage": "Second group stage",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "L",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "year": 1986,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 11,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the quarter-final"
+        },
+        {
+          "year": 1990,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 2,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 10,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "D",
+            "D",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 10,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the quarter-final"
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 9,
+          "goalsAgainst": 4,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "note": "Champions for the first time"
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 3,
+          "losses": 0,
+          "goalsFor": 7,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the round of 16"
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 9,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "D",
+            "L",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the round of 16"
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "confederation": "UEFA",
+      "qualified2026": true,
+      "worldCups": [
+        {
+          "year": 1930,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1934,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 2,
+          "wins": 1,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1938,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 1950,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "year": 1954,
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 11,
+          "goalsAgainst": 11,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "note": "Quarter-final as hosts"
+        },
+        {
+          "year": 1958,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1962,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1966,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 1,
+          "goalsAgainst": 9,
+          "matchResults": [
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1970,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1974,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1978,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1982,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1986,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1990,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 1994,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "D",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "year": 1998,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2002,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2006,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 2,
+          "losses": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 0,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "D"
+          ],
+          "note": "Eliminated on penalties in the round of 16"
+        },
+        {
+          "year": 2010,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "matchResults": [
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "year": 2014,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2018,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "L"
+          ]
+        },
+        {
+          "year": 2022,
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 9,
+          "matchResults": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "year": 2026,
+          "participated": true,
+          "stage": "Qualified",
+          "stageLevel": 1,
+          "note": "Qualified for 2026"
+        }
+      ]
+    },
+    {
       "id": "usa",
       "name": "United States",
       "confederation": "CONCACAF",
@@ -2105,8 +5324,7 @@ window.WC_HISTORY = {
           "year": 1938,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Withdrew"
+          "stageLevel": 0
         },
         {
           "year": 1950,
@@ -2339,52 +5557,80 @@ window.WC_HISTORY = {
       ]
     },
     {
-      "id": "norway",
-      "name": "Norway",
-      "confederation": "UEFA",
+      "id": "uruguay",
+      "name": "Uruguay",
+      "confederation": "CONMEBOL",
       "qualified2026": true,
       "worldCups": [
         {
           "year": 1930,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 4,
+          "wins": 4,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 15,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "note": "Champions as hosts at the first World Cup"
         },
         {
           "year": 1934,
           "participated": false,
           "stage": "Did not qualify",
-          "stageLevel": 0,
-          "note": "Did not enter"
+          "stageLevel": 0
         },
         {
           "year": 1938,
-          "participated": true,
-          "stage": "Round of 16",
-          "stageLevel": 2,
-          "matches": 1,
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
-          "matchResults": [
-            "L"
-          ],
-          "note": "Straight knockout format; lost to eventual champions Italy after extra time"
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
         },
         {
           "year": 1950,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Champion",
+          "stageLevel": 6,
+          "matches": 4,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalsFor": 15,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "D",
+            "W",
+            "W"
+          ],
+          "note": "Won the decisive match of the final round-robin against hosts Brazil — the Maracanazo"
         },
         {
           "year": 1954,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 5,
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 16,
+          "goalsAgainst": 9,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "note": "Fourth place"
         },
         {
           "year": 1958,
@@ -2394,27 +5640,76 @@ window.WC_HISTORY = {
         },
         {
           "year": 1962,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "W",
+            "L",
+            "L"
+          ]
         },
         {
           "year": 1966,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 4,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "D",
+            "W",
+            "D",
+            "L"
+          ]
         },
         {
           "year": 1970,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 6,
+          "wins": 2,
+          "draws": 1,
+          "losses": 3,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "W",
+            "D",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "note": "Fourth place"
         },
         {
           "year": 1974,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "L",
+            "D",
+            "L"
+          ]
         },
         {
           "year": 1978,
@@ -2430,58 +5725,68 @@ window.WC_HISTORY = {
         },
         {
           "year": 1986,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 0,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "D",
+            "L",
+            "D",
+            "L"
+          ]
         },
         {
           "year": 1990,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
-        },
-        {
-          "year": 1994,
-          "participated": true,
-          "stage": "Group stage",
-          "stageLevel": 1,
-          "matches": 3,
-          "wins": 1,
-          "draws": 1,
-          "losses": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "matchResults": [
-            "W",
-            "L",
-            "D"
-          ],
-          "note": "Eliminated on goals scored in a group where all four teams finished on four points"
-        },
-        {
-          "year": 1998,
           "participated": true,
           "stage": "Round of 16",
           "stageLevel": 2,
           "matches": 4,
           "wins": 1,
-          "draws": 2,
-          "losses": 1,
-          "goalsFor": 5,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 2,
           "goalsAgainst": 5,
           "matchResults": [
             "D",
-            "D",
+            "L",
             "W",
             "L"
-          ],
-          "note": "Beat Brazil in the group stage"
+          ]
         },
         {
-          "year": 2002,
+          "year": 1994,
           "participated": false,
           "stage": "Did not qualify",
           "stageLevel": 0
+        },
+        {
+          "year": 1998,
+          "participated": false,
+          "stage": "Did not qualify",
+          "stageLevel": 0
+        },
+        {
+          "year": 2002,
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 5,
+          "matchResults": [
+            "L",
+            "D",
+            "D"
+          ]
         },
         {
           "year": 2006,
@@ -2491,34 +5796,86 @@ window.WC_HISTORY = {
         },
         {
           "year": 2010,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Semi-final",
+          "stageLevel": 4,
+          "matches": 7,
+          "wins": 3,
+          "draws": 2,
+          "losses": 2,
+          "goalsFor": 11,
+          "goalsAgainst": 8,
+          "matchResults": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "D",
+            "L",
+            "L"
+          ],
+          "note": "Fourth place"
         },
         {
           "year": 2014,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Round of 16",
+          "stageLevel": 2,
+          "matches": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 6,
+          "matchResults": [
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
         },
         {
           "year": 2018,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Quarter-final",
+          "stageLevel": 3,
+          "matches": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
+          "matchResults": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
         },
         {
           "year": 2022,
-          "participated": false,
-          "stage": "Did not qualify",
-          "stageLevel": 0
+          "participated": true,
+          "stage": "Group stage",
+          "stageLevel": 1,
+          "matches": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "matchResults": [
+            "D",
+            "L",
+            "W"
+          ]
         },
         {
           "year": 2026,
           "participated": true,
           "stage": "Qualified",
           "stageLevel": 1,
-          "note": "First World Cup since 1998 — won the qualifying group ahead of Italy"
+          "note": "Qualified for 2026"
         }
       ]
     }
