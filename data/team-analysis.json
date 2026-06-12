@@ -1,0 +1,252 @@
+{
+  "disclaimer": "Open tactical data is limited and squads change quickly. These summaries are curated from publicly available analysis and recent match reports, and should be read as indicative rather than definitive.",
+  "teams": [
+    {
+      "teamId": "morocco",
+      "styleSummary": "Compact, disciplined and transition-oriented. Morocco tend to defend in a mid or low block, close central spaces and break quickly through their wide players.",
+      "defensiveStyle": "Organised mid-to-low block with strong central protection and aggressive duels when pressing triggers appear.",
+      "attackingStyle": "Fast transitions, combinations in wide areas and late runs from midfield rather than sustained positional play.",
+      "strengths": [
+        "Defensive compactness",
+        "Transitions and counter-attacks",
+        "Collective discipline and intensity"
+      ],
+      "weaknesses": [
+        "Can struggle to create against deep blocks",
+        "May become passive when protecting a lead"
+      ],
+      "keyPlayers": [
+        "Achraf Hakimi",
+        "Sofyan Amrabat",
+        "Brahim Díaz"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "FBref — team statistics",
+          "url": "https://fbref.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "argentina",
+      "styleSummary": "Flexible and possession-comfortable, with a strong collective identity built under Lionel Scaloni. Recent analyses describe a side that controls midfield, presses in coordinated waves and still creates its decisive moments around Lionel Messi.",
+      "defensiveStyle": "Well-drilled mid block with energetic counter-pressing after losses; rarely concedes large volumes of chances.",
+      "attackingStyle": "Patient circulation that accelerates through central combinations; full-backs and midfield runners provide width and depth around the front line.",
+      "strengths": [
+        "Midfield control and pressing coordination",
+        "Tournament experience and composure",
+        "Set-piece organisation"
+      ],
+      "weaknesses": [
+        "An ageing core in key positions",
+        "A recurring reliance on individual moments to unlock deep defences"
+      ],
+      "keyPlayers": [
+        "Lionel Messi",
+        "Enzo Fernández",
+        "Julián Álvarez"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "france",
+      "styleSummary": "Pragmatic and devastating in transition. France tend to concede territory selectively and strike vertically at pace, with the attack heavily oriented towards Kylian Mbappé's side.",
+      "defensiveStyle": "Medium block with a strong, athletic spine; comfortable defending without the ball for long spells.",
+      "attackingStyle": "Direct, vertical attacks into the channels; quick release to the left side and runners arriving from midfield.",
+      "strengths": [
+        "Transition speed and individual quality",
+        "Depth across the squad",
+        "Big-tournament pedigree"
+      ],
+      "weaknesses": [
+        "Can drop too deep and invite pressure",
+        "Build-up can look laboured against an organised press"
+      ],
+      "keyPlayers": [
+        "Kylian Mbappé",
+        "Aurélien Tchouaméni",
+        "Michael Olise"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "brazil",
+      "styleSummary": "In transition between eras. Under Carlo Ancelotti the side has moved towards a more structured 4-3-3, balancing Brazil's traditional individual expression in wide areas with a more disciplined defensive base.",
+      "defensiveStyle": "More compact and positionally cautious than earlier cycles; the midfield screens centrally while full-backs pick their moments.",
+      "attackingStyle": "Wide attackers carrying the ball at pace in one-against-one situations, supported by overlaps and quick central combinations.",
+      "strengths": [
+        "Individual quality in the front line",
+        "Pace and unpredictability in wide areas"
+      ],
+      "weaknesses": [
+        "A recurring pattern is instability from frequent coaching changes",
+        "Balance between attacking talents is still being worked out"
+      ],
+      "keyPlayers": [
+        "Vinícius Júnior",
+        "Raphinha",
+        "Rodrygo"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "FBref — team statistics",
+          "url": "https://fbref.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "england",
+      "styleSummary": "More direct and front-footed under Thomas Tuchel than in previous cycles. Recent analyses describe a side that wants to win the ball higher and move it forward with fewer touches, built around an experienced attacking core.",
+      "defensiveStyle": "Higher, more aggressive pressing structure than before, with a back line comfortable defending larger spaces.",
+      "attackingStyle": "Quicker progression into the final third; Harry Kane dropping to link while runners attack the space beyond him.",
+      "strengths": [
+        "Depth of attacking talent",
+        "Set pieces",
+        "A settled, experienced spine"
+      ],
+      "weaknesses": [
+        "One possible weakness is creativity against very deep blocks",
+        "A history of conceding momentum in knockout ties"
+      ],
+      "keyPlayers": [
+        "Harry Kane",
+        "Jude Bellingham",
+        "Bukayo Saka"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "japan",
+      "styleSummary": "Energetic, well-organised and dangerous in transition. Japan typically alternate between a patient 3-4-2-1 structure and sudden, high-intensity pressing phases that have repeatedly unsettled stronger opponents.",
+      "defensiveStyle": "Compact 5-4-1 mid block out of possession, with sharp, coordinated pressing triggers in chosen phases.",
+      "attackingStyle": "Quick vertical breaks through technically strong wide players and wing-backs; intelligent rotations between the lines.",
+      "strengths": [
+        "Pressing intensity and discipline",
+        "Transitions through wide areas",
+        "Squad depth from players in top European leagues"
+      ],
+      "weaknesses": [
+        "Chance conversion has been a recurring issue",
+        "Sustained possession against deep blocks"
+      ],
+      "keyPlayers": [
+        "Kaoru Mitoma",
+        "Takefusa Kubo",
+        "Wataru Endo"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "FBref — team statistics",
+          "url": "https://fbref.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "usa",
+      "styleSummary": "Athletic and transition-heavy under Mauricio Pochettino, with an emphasis on energy, pressing and quick attacks. As co-hosts, they enter 2026 with a young core that has grown up together.",
+      "defensiveStyle": "Front-foot pressing in spells, dropping into a compact 4-4-2 block; relies on athleticism to recover space.",
+      "attackingStyle": "Fast breaks through the wide channels, with Christian Pulisic as the main creative outlet.",
+      "strengths": [
+        "Athleticism and pressing energy",
+        "Home advantage and crowd momentum",
+        "A core entering its prime"
+      ],
+      "weaknesses": [
+        "Chance creation in settled possession",
+        "Limited experience of deep tournament runs"
+      ],
+      "keyPlayers": [
+        "Christian Pulisic",
+        "Weston McKennie",
+        "Antonee Robinson"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "The Analyst — international football",
+          "url": "https://theanalyst.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    },
+    {
+      "teamId": "norway",
+      "styleSummary": "Direct, vertical and ruthlessly efficient. Under Ståle Solbakken, Norway have built a clear identity around fast forward play towards Erling Haaland, with Martin Ødegaard dictating tempo behind him.",
+      "defensiveStyle": "Disciplined mid block in a 4-4-2 shape; happy to concede possession and protect central areas.",
+      "attackingStyle": "Quick, direct attacks with early balls into Haaland's running channels; dangerous on set pieces and second balls.",
+      "strengths": [
+        "Elite finishing through Haaland",
+        "Clarity of game plan",
+        "Set pieces and transitions"
+      ],
+      "weaknesses": [
+        "One possible weakness is defending wide areas against quick wingers",
+        "Depth beyond the first-choice spine"
+      ],
+      "keyPlayers": [
+        "Erling Haaland",
+        "Martin Ødegaard",
+        "Antonio Nusa"
+      ],
+      "sources": [
+        {
+          "title": "FIFA Training Centre — tactical analyses",
+          "url": "https://fifatrainingcentre.com"
+        },
+        {
+          "title": "FBref — team statistics",
+          "url": "https://fbref.com"
+        }
+      ],
+      "lastUpdated": "2026-06-01"
+    }
+  ]
+}
