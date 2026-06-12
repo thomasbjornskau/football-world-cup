@@ -21,34 +21,38 @@ No build step, no backend, no API keys. Plain HTML, CSS and JavaScript.
 index.html                    page structure
 style.css                     all styling
 script.js                     picker, ladder visualization, detail card, stats, analysis box
-data/worldcup-history.json    canonical historical data
-data/team-analysis.json       canonical tactical notes
-data/worldcup-history.js      generated mirror (window.WC_HISTORY) — do not edit
-data/team-analysis.js         generated mirror (window.WC_ANALYSIS) — do not edit
-tools/build_data.py           single source of truth for the data; regenerates all four data files
+data/worldcup-history.json    generated historical data (canonical output)
+data/team-analysis.json       curated tactical notes
+data/worldcup-history.js      mirror loaded by the page (window.WC_HISTORY) — do not edit
+data/team-analysis.js         mirror loaded by the page (window.WC_ANALYSIS) — do not edit
+tools/build_data.py           generator + curated notes + analyses; rebuilds all four data files
+tools/source/                 Fjelstul World Cup Database CSVs (1930–2022)
 ```
 
-## Editing or adding data
+## How the data is built
 
-The data is defined in `tools/build_data.py`. Edit the Python dicts there and run:
+Historical results are **generated**, not hand-typed. `tools/build_data.py`
+reads the Fjelstul World Cup Database CSVs in `tools/source/` and computes,
+per team per tournament: furthest stage (via match stages and final
+standings), W–D–L with penalty shoot-outs recomputed as draws, goals, and the
+match-by-match result sequence. Curated notes (`OVERRIDES`), the 2026 entries
+and all tactical analyses (`ANALYSIS`) are maintained by hand in the same
+script. Rebuild with:
 
 ```bash
 python3 tools/build_data.py
 ```
 
-This rewrites both the `.json` files (canonical, reusable by other tools) and
-the `.js` mirrors the page actually loads. The script also keeps W–D–L counts
-consistent with the `matchResults` arrays. If you prefer to edit the JSON
-directly, you can — just keep the `.js` mirrors in sync (they are the same
-content wrapped in `window.WC_HISTORY = …;` / `window.WC_ANALYSIS = …;`).
+The script validates internal consistency (W–D–L vs. match sequences, full
+year coverage, history/analysis id parity) and refuses to write on failure.
+To refresh the source CSVs, see the download command in the script's header.
 
 ### Adding a team
 
-Add an entry to `TEAMS` in `tools/build_data.py` with one `worldCups` item per
-tournament year (1930–2026), and a matching entry in `ANALYSIS["teams"]` with
-the same id. The page handles missing detail gracefully: a tournament can have
-just `year` + `stageLevel`, and match dots only appear when `matchResults` is
-present.
+Add one line to `TEAM_CONFIG` (id, display name, confederation, and the
+team's name(s) in the Fjelstul data) and a matching entry in
+`ANALYSIS["teams"]`. Everything else is generated. The page handles missing
+detail gracefully.
 
 ### Stage levels
 
@@ -75,24 +79,38 @@ present.
   calculations.
 - Third-place play-offs are folded into the semi-final level, not shown
   separately.
+- **Successor states:** West Germany's results (1954–1990) are attributed to
+  Germany, following FIFA convention. Yugoslavia and Czechoslovakia are *not*
+  attributed to Croatia or any current team in this set, and East Germany is
+  excluded.
+- The 1950 final round-robin maps to Champion/Final for the top two and to a
+  "Final round" label at semi-final level for third and fourth place.
 
 ## Sources
 
-- Historical results: compiled manually from public records, cross-checkable
-  against [openfootball/worldcup.json](https://github.com/openfootball/worldcup.json)
-  (CC0) and the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup).
+- Historical results: generated from the
+  [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup)
+  (all men's World Cup matches 1930–2022). The women's tournaments included
+  in that database are filtered out.
 - Tactical notes: curated summaries informed by openly available analysis such
   as the [FIFA Training Centre](https://fifatrainingcentre.com),
   [The Analyst](https://theanalyst.com) and [FBref](https://fbref.com).
   Each note carries a `lastUpdated` date and the page labels them explicitly
   as indicative rather than definitive.
 
+## Team selection
+
+**20 teams**: the 18 highest-ranked sides at the 2026 World Cup (FIFA Men's
+World Ranking, April 2026 — Italy and Denmark are in the top 20 but did not
+qualify), plus Norway and Iraq. This covers all of Group I (France, Norway,
+Senegal, Iraq). The pipeline supports all 48 teams; adding one is a single
+config line plus a curated analysis entry.
+
 ## Known limitations
 
-- Prototype dataset: **8 teams** (Morocco, Argentina, France, Brazil, England,
-  Japan, United States, Norway). The data model supports all 48.
-- Historical figures were entered by hand and validated for internal
-  consistency (W–D–L vs. match sequences), but should be verified against the
-  source databases before any serious use.
-- Tactical notes are snapshots (June 2026) and will age quickly.
+- Tactical notes are hand-curated snapshots (June 2026) and will age quickly;
+  each carries a `lastUpdated` date.
+- Historical data quality is inherited from the Fjelstul database. Generated
+  figures for the original eight hand-entered teams matched on every value
+  except one match-order detail (where the database was right).
 - No team comparison view yet — listed in the brief as a possible extension.
