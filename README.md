@@ -12,6 +12,8 @@ No build step, no backend, no API keys. Plain HTML, CSS and JavaScript.
 **Locally:** open `index.html` directly in a browser. (Data is loaded via
 `<script>` tags rather than `fetch()`, so it also works on `file://`.)
 
+(https://thomasbjornskau.github.io/football-world-cup/)|[https://thomasbjornskau.github.io/football-world-cup/]
+
 **GitHub Pages:** push the folder to a repository and enable Pages
 (Settings → Pages → Deploy from branch → root). The site is fully static.
 
